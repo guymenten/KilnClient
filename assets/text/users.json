@@ -1,0 +1,14 @@
+[
+{
+	"name":"Opérateur",
+	"password":"",
+	"security":"755",
+	"comment":"Opérateur de base"
+},
+{
+	"name":"Administrateur",
+	"password":"admin",
+	"security":"777",
+	"comment":"Opérateur exportérimenté"
+}
+]

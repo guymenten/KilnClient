@@ -1,0 +1,30 @@
+[
+{
+	"name":"Fusing Artista",
+	"version":"1.0",
+	"date":"2016-12-01 13:39:27",
+	"setPoints":{"arValues":[{"X":0,"Y":20},{"X":6600,"Y":550},{"X":6601,"Y":820},{"X":7801,"Y":820},{"X":8000,"Y":540},{"X":9200,"Y":540},{"X":20102,"Y":480},{"X":20200,"Y":20}]},
+	"comment":"Courbe de Fusing Artista"
+},
+{
+	"name":"Thermoformage <= 50 cm diam.",
+	"version":"1.0",
+	"date":"2016-12-01 13:39:27",
+	"setPoints":{"arValues":[{"X":0,"Y":20},{"X":8866,"Y":540},{"X":8868,"Y":600},{"X":12468,"Y":600},{"X":5000,"Y":720},{"X":8500,"Y":720},{"X":10000,"Y":540},{"X":10000,"Y":540},{"X":10000,"Y":480},{"X":10000,"Y":20}]},
+	"comment":"Thermoformage jusqu'à 50cm de diamètre"
+},
+{
+	"name":"Fusing Bullseye",
+	"version":"1.0",
+	"date":"2016-12-01 13:39:27",
+	"setPoints":{"arValues":[{"X":0,"Y":0},{"X":200,"Y":600},{"X":2000,"Y":700},{"X":4000,"Y":1200},{"X":5000,"Y":800},{"X":8500,"Y":400},{"X":10000,"Y":200}]},
+	"comment":"Thermoformage jusqu'à 50cm de diamètre"
+},
+{
+	"name":"Thermoformage Bullseye",
+	"version":"1.0",
+	"date":"2016-12-01 13:39:27",
+	"setPoints":{"arValues":[{"X":0,"Y":0},{"X":200,"Y":600},{"X":2000,"Y":700},{"X":4000,"Y":1200},{"X":5000,"Y":800},{"X":8500,"Y":400},{"X":10000,"Y":200}]},
+	"comment":"Thermoformage jusqu'à 50cm de diamètre"
+}
+]

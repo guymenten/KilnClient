@@ -1,0 +1,52 @@
+{
+	"Status": {
+		"Inactive":			"INACTIF",
+		"Starting":			"DÉMARRAGE",
+		"Running":			"LE FOUR CHAUFFE",
+		"Initialisation":	"INITIALISATION",
+		"Stopping":			"ARRÊT EN COURS",
+		"Stopped":			"À l'ARRÊT"
+	},
+	"StartButton": {
+		"Start":			"Démarrer",
+		"Stop":				"Stopper",
+		"User":				"User",
+		"Pause":			"Pause"
+	},
+	"TabsSelector": {
+		"Tabs":			"Tabs",
+		"Stop":			"Stopper",
+		"Pause":		"Pause"
+	},
+	"Tabs": {
+		"Big":			"Résumé",
+		"Setpoints":	"Courbe",
+		"Config":		"Config.",
+		"Defaults":		"Défauts",
+		"Chat":		"Chat",
+		"Sounds":		"Alarmes"
+	},
+	"TabSetPoints": {
+		"Curve":		"Courbe",
+		"Temperature":		"T°s",
+		"Duration":		"Durée",
+		"Sounds":		"Alarmes"
+	},
+	"TabAlarms": {
+		"Sound":		"Sons",
+		"Voice":		"Voix",
+		"Duration":		"Durée",
+		"Sounds":		"Alarmes"
+	},	
+	"TabChat": {
+		"EnterName":		"Veuillez entrer votre nom dans le champ de texte inférieur pour vous connecter et appuyez sur ENTRÉE!",
+		"Join":			"Connexion de ",
+		"Leave":		"Déconnexion de ",
+		"Disconnected":		"Serveur non connecté!",
+		"Sounds":		"Alarmes"
+	},
+	"TabDefaults": {
+		"Factory":		"Usine",
+		"Sounds":		"Alarmes"
+	}
+}
